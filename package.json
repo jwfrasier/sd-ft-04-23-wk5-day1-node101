@@ -1,0 +1,22 @@
+{
+  "name": "sd-ft-04-23-wk5-day1-node101",
+  "version": "1.0.0",
+  "description": "1. You have to run the command `npm init`    This stands for node package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwfrasier/sd-ft-04-23-wk5-day1-node101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwfrasier/sd-ft-04-23-wk5-day1-node101/issues"
+  },
+  "homepage": "https://github.com/jwfrasier/sd-ft-04-23-wk5-day1-node101#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
